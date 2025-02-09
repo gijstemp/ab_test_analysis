@@ -1,5 +1,2 @@
 # Ignore everything inside data/anomalies/
 data/anomalies/*
-
-# But keep the folder itself
-!data/anomalies/.gitkeep
